@@ -1,2 +1,2 @@
-# laki-v.github.io
+# https://budulatiy.github.io/
 Personal website
